@@ -1,5 +1,10 @@
 Projeto Startup - Mural de Ideias para aplicações reais.
 
+A ideia do projeto e ter um local onde possibilite o usuario a salvar alguma ideia que teve em qualquer momento ou até mesmo encontrar alguma ideia de outro usuario a qualquer horario do seu dia.
+
+Pagina 1 - Mural de Ideias, onde todas as ideias ficam salvas e expostas a qualquer usuario.
+Pagina 2 - Criar Ideias, pagina onde o usuario cria ideia e identifica o autor ou fonte, e tem a possibiidade de escolher o card que ficara visivel no mural.
+
 o que aprendemos:
 
 1 - Instalar e utilizar o Angular CLI;
