@@ -1,0 +1,28 @@
+{
+  "pensamentos": [
+    {
+      "conteudo": "!!!!!!!!!!!!!!!!!!SEJA BEM VINDO !!!!!!!!!!!!!!!!!!!!  A AULA DE DESENV. WEB EM HTML5, CSS, JAVASCRIPT E PHP (ARA0062/7149446 / 2022.2) 3001 EMENTA: LINGUAGEM DE MARCAÇÃO DE HYPERTEXTO ­ HTML. LINGUAGEM DE MARCAÇÃO E ESTILOS ­ CSS. LINGUAGEM JAVASCRIPT. PROGRAMAÇÃO DE PÁGINAS DINÂMICAS COM AJAX & PHP. CRIAÇÃO DE UM CRUD.",
+      "autoria": "João Ronaldo Del Ducca Cunha",
+      "modelo": "modelo1",
+      "id": 1
+    },
+    {
+      "conteudo": "Atividade 1 - Trabalho HTML e CSS",
+      "autoria": "João Ronaldo Del Ducca Cunha",
+      "modelo": "modelo2",
+      "id": 2
+    },
+    {
+      "conteudo": "Atividade 2 - Trabalho Framework JS",
+      "autoria": "João Ronaldo Del Ducca Cunha",
+      "modelo": "modelo3",
+      "id": 3
+    },
+    {
+      "conteudo": "Atividade 3 - Trabalho Backend",
+      "autoria": "João Ronaldo Del Ducca Cunha",
+      "modelo": "modelo1",
+      "id": 4
+    }
+  ]
+}
