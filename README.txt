@@ -1,5 +1,8 @@
 Projeto Startup - Mural de Ideias para aplicações reais.
 
+Guilherme Adriano de Araujo Salla: RA: 202102449847
+Felipe Pinheiro Costa Silva - RA: 202102668441
+
 A ideia do projeto e ter um local onde possibilite o usuario a salvar alguma ideia que teve em qualquer momento ou até mesmo encontrar alguma ideia de outro usuario a qualquer horario do seu dia.
 
 Pagina 1 - Mural de Ideias, onde todas as ideias ficam salvas e expostas a qualquer usuario.
